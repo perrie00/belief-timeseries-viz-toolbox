@@ -12,12 +12,7 @@ and multi-agent models.
 ### Required input format 
 
 #### Visualise initial opinion dynamics X0 
-- After every simulation, you must save a .mat or csv file containing a 3D array (n x m x T) as follows:
-| Variable | Size | Dimension |
-|----------|-------|-------------|
-| n | agent | 1 |
-| m | topic | 2|
-| T   | time step |3 |
+- After every simulation, you must save a .mat or csv file containing a 3D array 'n x m x T'  (agents × topics × time)
 
 
 ## 📦 Installation
