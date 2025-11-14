@@ -22,7 +22,4 @@ Clone and add to MATLAB path:
 ```matlab
 addpath(genpath('src'))
 
-Visualise trajectories
-```matlab
-% X is n x m x T
-plot_opinion_trajectories(X)
+
