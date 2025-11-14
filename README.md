@@ -9,6 +9,9 @@ and multi-agent models.
 - Plot full opinion trajectories for all agents and topics over time.
 - Supports opinions stored as `n × m × T` arrays (agents × topics × time).
 
+### Required input format 
+
+- Each simulation must output a folder like 
 ---
 
 ## 📦 Installation
