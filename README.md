@@ -1,8 +1,6 @@
 # Belief Dynamics Visualisation Toolbox
 
 MATLAB toolbox for visualising **multi-topic opinion dynamics**.
-Designed for research groups working on belief systems, DeGroot-style dynamics,
-and multi-agent models.
 
 ### Features
 - Visualise initial distributions `X0` using Beta PDFs, histograms, boxplots, and correlation maps.
