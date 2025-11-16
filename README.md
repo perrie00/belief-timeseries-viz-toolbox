@@ -3,7 +3,6 @@
 MATLAB toolbox for visualising **multi-topic opinion dynamics**.
 
 ### Features
-- Visualise initial distributions `X0` using Beta PDFs, histograms, boxplots, and correlation maps.
 - Plot full opinion trajectories for all agents and topics over time.
 - Supports opinions stored as `n × m × T` arrays (agents × topics × time).
 
