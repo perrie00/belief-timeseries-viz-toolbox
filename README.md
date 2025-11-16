@@ -15,11 +15,11 @@ Inputs
 - mode : integer selecting visualisation type
 
 #### Modes:
-1 – Separate plot for each topic (all agents)
-2 – Average opinion per topic (all topics on same figure)
-3 – Average opinion per topic with 95% envelope
-4 – Random sample of 10 agents per topic, separate plots
-5 – All trajectories in a single figure; same colour/style per topic
+- 1 – Separate plot for each topic (all agents)
+- 2 – Average opinion per topic (all topics on same figure)
+- 3 – Average opinion per topic with 95% envelope
+- 4 – Random sample of 10 agents per topic, separate plots
+- 5 – All trajectories in a single figure; same colour/style per topic
 
 
 ## 📦 Installation
