@@ -1,4 +1,4 @@
-# Belief Dynamics Visualisation Toolbox
+# Belief Dynamics Time-series Visualisation Toolbox
 
 MATLAB toolbox for visualising **multi-topic opinion dynamics**.
 
