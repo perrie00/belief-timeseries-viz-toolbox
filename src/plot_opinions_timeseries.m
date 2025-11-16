@@ -32,8 +32,9 @@ function plot_opinions(X, mode)
                     plot(squeeze(X(i,j,:)), 'Color', col, 'LineWidth', 0.75);
                 end
 
-                title(sprintf('Topic %d – All Agents', j));
-                xlabel('Time'); ylabel('Opinion');
+                title(sprintf('Topic %d Opinion Trajectories', j));
+                xlabel('Time step t', 'FontSize', 15);
+                ylabel('Opinion $x_{i,j}(t)$', 'Interpreter', 'latex', 'FontSize', 15);
                 grid on; hold off;
             end
 
